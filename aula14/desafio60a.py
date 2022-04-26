@@ -1,0 +1,1 @@
+# Fazer o exercício 60 utilizando a estrutura de repetição for
